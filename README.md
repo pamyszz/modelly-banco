@@ -1,4 +1,4 @@
-# 📦 bd_Modelly Banco de Dados
+# 📦Banco de Dados Modelly
 
 ## 📖 Visão Geral
 
