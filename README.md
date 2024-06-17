@@ -2,7 +2,7 @@
 
 ## 📖 Visão Geral
 
-O banco de dados `bd_Modelly` foi projetado para gerenciar as operações de uma plataforma de comércio eletrônico. Este banco de dados cobre funcionalidades essenciais como o registro de usuários, listagem de produtos, gerenciamento de carrinho de compras, processamento de pedidos, pagamentos, avaliações de lojas e produtos, e acompanhamento de seguidores.
+O banco de dados `bd_Modelly` foi projetado para gerenciar as operações de uma plataforma marktplace de artesanato. Este banco de dados cobre funcionalidades essenciais como o registro de usuários, listagem de produtos, gerenciamento de carrinho de compras, processamento de pedidos, pagamentos, avaliações de lojas e produtos, e acompanhamento de seguidores.
 
 ## 🛠️ Tecnologias Utilizadas
 
