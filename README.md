@@ -167,9 +167,8 @@ Tabela que gerencia os seguidores das lojas.
 4. **Avaliações e Seguidores**:
     ```sql
     INSERT INTO Tb_AvaliacaoLoja (Fk_id_Usuario, Fk_id_Loja, Conteudo_AvaliacaoLoja, Data_AvaliacaoLoja, Nota_AvaliacaoLoja)
-    VALUES (1, 1, 'Ótima loja, produtos de qualidade!', CUR
-
-DATE(), 5);
+    VALUES (1, 1, 'Ótima loja, produtos de qualidade!', CUR 
+    DATE(), 5);
 
     INSERT INTO Tb_AvaliacaoProduto (Fk_id_Usuario, Fk_id_Produto, Conteudo_AvaliacaoProduto, Data_AvaliacaoProduto, Nota_AvaliacaoProduto)
     VALUES (1, 1, 'Produto muito bom, recomendo!', CURDATE(), 5);
